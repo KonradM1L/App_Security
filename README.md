@@ -1,3 +1,5 @@
+Praca dla Aspekty bezpieczeństwa w programowaniu, Konrad Milewski 159826
+
 # Platforma Edukacyjna Bezpieczeństwa Cyfrowego
 
 Zaawansowana platforma edukacyjna demonstrująca podstawowe koncepcje bezpieczeństwa cyfrowego poprzez interaktywne przykłady i wizualizacje. Projekt ma na celu praktyczne przedstawienie zagadnień związanych z szyfrowaniem, bezpieczną komunikacją i potencjalnymi zagrożeniami.
